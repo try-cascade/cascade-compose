@@ -16,8 +16,8 @@ Cascade is a fullstack deployment tool that's:
 
 ### Brief Overview
 Plan in 3 Steps           |  Deploy and View Progress
-:------------------------:|:-------------------------:
-![welcome gif](https://i.ibb.co/j418gnq/welcome.gif)|![deploying gif](https://i.ibb.co/j418gnq/welcome.gif)
+:------------------------:|:------------------------:
+![welcome gif](https://i.ibb.co/j418gnq/welcome.gif)|![deploying gif](https://i.ibb.co/PmGx7Rw/deploystack.gif)
 
 
 
