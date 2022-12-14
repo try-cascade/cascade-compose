@@ -1,4 +1,4 @@
-![Cascade logo](https://i.ibb.co/MNytnD7/Risorsa-17s.png)
+![Cascade logo](https://i.ibb.co/88LznWt/Risorsa-17s.png)
 
 # Open-source containerized application deployment with observability
 
@@ -17,7 +17,7 @@ Cascade is a fullstack deployment tool that's:
 ### Brief Overview
 Plan in 3 Steps           |  Deploy and View Progress
 :------------------------:|:-------------------------:
-![welcome gif](https://i.ibb.co/py7tvmr/welcome.gif)|![welcome gif](https://i.ibb.co/6XPC0V6/deploying.gif)
+![welcome gif](https://i.ibb.co/RHVgzRt/welcome.gif)|![welcome gif](https://i.ibb.co/5GvnzZM/deploying.gif)
 
 
 
@@ -25,8 +25,8 @@ Plan in 3 Steps           |  Deploy and View Progress
 - [Who it's for](#who-its-for)
 - [What Cascade does](#what-cascade-does)
 - [Prerequisites](#prerequisites)
-- [How to set-up Cascade](#how-to-set-up-cascade)
-- [How Cascade works](#how-horus-works)
+- [How Cascade works](#how-cascade-works)
+- [Cascade Compose](#cascade-compose)
 - [Team](#team)
 
 ## Who it's for
