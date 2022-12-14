@@ -72,7 +72,7 @@ Cascade will now be ready to plan and deploy your containerized application. You
 
 **Images** 
 - `cascade-backend`: handles Terraform config files and communication between Cascade and AWS
-- `cascade-gui`: the GUI that handles user interactions
+- `cascade-gui`: the GUI that handles user interactions and displays a status dashboard
 
 **Container Communication**
 
