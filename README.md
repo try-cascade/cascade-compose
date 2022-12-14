@@ -33,7 +33,7 @@ Plan in 3 Steps           |  Deploy and View Progress
 Cascade was built for users who wish to:
 
 - Deploy their containerized applications onto AWS ECS Fargate
-- Be able to see logs and traces without manual effort
+- See logs and traces without manual effort
 
 ## What Cascade does
 
@@ -45,8 +45,8 @@ Cascade was built for users who wish to:
 
 - Instrument with [`cascade-agent`](https://www.npmjs.com/package/cascade-agent)
 - [Configure AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html) 
-- Running Docker daemon
-- Container image
+- Run Docker daemon
+- Define a container image file
 
 
 ## How Cascade works
@@ -81,7 +81,7 @@ The default Docker network created by `docker-compose` enables containers to com
 **AWS Credentials**
 
 `docker-compose` defines a volume for AWS credentials for `cascade-backend`. When the backend container is started, it uses the volume to allow Terraform to access your configured AWS Credentials.
-- In `docker-compose.yml`, the volume for AWS credentials is defined as `~/.aws`, which is the default path on Linux and macOS. Users with a different path for `.aws` must respecify the host path accordingly.
+In `docker-compose.yml`, the volume for AWS credentials is defined as `~/.aws`, which is the default path on Linux and macOS. Users with a different path for `.aws` must respecify the host path accordingly.
 
 ## Team
 
