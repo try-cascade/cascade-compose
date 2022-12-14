@@ -1,0 +1,17 @@
+version: "3.9"
+services:
+  cascade-backend:
+    image: "trycascade/cascade-backend:latest"
+    container_name: cascade-backend
+    ports:
+      - "3005:3005"
+    volumes:
+      - ~/.aws/:/root/.aws:ro
+    restart: on-failure
+  cascade-gui:
+    image: "trycascade/cascade-gui:latest"
+    container_name: cascade-gui
+    ports:
+      - "3000:3000"
+    depends_on:
+      - cascade-backend
