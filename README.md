@@ -5,7 +5,7 @@
 Cascade is an open-source **containerized application deployment** solution with **observability** built in. 
 Users can add their containerized applications and Cascade will generate the Terraform config files to deploy each application alongside a collector container onto AWS.
 
-It's **a containerized application deployment accelerator**: it builds and deploys a cloud infrastructure for containers with a side collector for distributed tracing.
+It's **a containerized application deployment accelerator**; it builds and deploys a cloud infrastructure for containers with a side collector for distributed tracing.
 
 Cascade is a fullstack deployment tool that's:
 - **Easy to install**: runs on Docker 
