@@ -95,4 +95,4 @@ In `docker-compose.yml`, the volume for AWS credentials is defined as `~/.aws`, 
 - Rona Hsu ([LinkedIn](https://www.linkedin.com/in/rona-h-a48640246/), [GitHub](https://github.com/Macaroni2629))
 
 **Denver, CO**
-- Yueun Kim ([LinkedIn](https://www.linkedin.com/in/yueun-kim-19a406221/), [GitHub](https://github.com/yueunk))
+- Yueun Kim ([LinkedIn](https://www.linkedin.com/in/yueunk/), [GitHub](https://github.com/yueunk))
